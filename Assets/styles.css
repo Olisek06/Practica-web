@@ -1,0 +1,32 @@
+.texto{
+
+     text-align: center;
+           
+ }
+ .menuHorizontal{
+
+    top: 10px;
+     display: flex;
+    justify-content: center;
+   align-items: center;
+  gap: 1rem;
+  position: relative;
+   text-align:center;
+      align-content: center;
+            
+           
+ }
+ .apartado:hover{
+            text-shadow: 1px 2px 3px rgb(6, 106, 255);  }
+ 
+.Imagen{
+   max-width: 100%;
+   height: auto;
+}
+.contenedorIMGS{
+   text-align: center;
+}
+.main{
+   text-align: center;
+   text-indent: 100px;
+}
